@@ -1,0 +1,20 @@
+.detalles{
+    background-color:aqua;
+    text-decoration: solid black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    display:block;
+    margin: 30px;
+}
+
+.tittle{
+    text-decoration: underline;
+}
+
+
+.form-contacto{
+    background-color: blueviolet;
+    display: block !important;
+    margin: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
